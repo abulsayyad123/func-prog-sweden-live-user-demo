@@ -1,4 +1,4 @@
-# LiveUserDemo
+# Func Prog Sweden "Displaying currently logged-in users in LV using Presence"
 
 To start your Phoenix server:
 
